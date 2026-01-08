@@ -1,0 +1,9 @@
+ "name": "Silent Hill 2",
+  "description": "Music pack made from the Silent Hill 2 OST",
+  "author": "guachiipa",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
